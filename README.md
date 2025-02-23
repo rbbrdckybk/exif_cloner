@@ -1,8 +1,8 @@
 # EXIF_Cloner Utility
 
-![EXIF_Cloner screenshot](https://github.com/rbbrdckybk/exif_cloner/blob/main/screenshot.jpg?raw=true)
-
 Quick command-line utility for bulk cloning EXIF metadata from a source directory (or tree) full of media files to a target directory (also full of media files). EXIF_Cloner uses [ExifTool](https://exiftool.org/) in the background, which you'll need to download and point it at.
+
+![EXIF_Cloner screenshot](https://github.com/rbbrdckybk/exif_cloner/blob/main/screenshot.jpg?raw=true)
 
 For example, if you have a bunch of original raw video files that contain embedded EXIF data (original creation date/time, GPS coordinates, etc) like so:
 ```
