@@ -1,6 +1,6 @@
 # EXIF_Cloner Utility
 
-Quick command-line utility for bulk cloning EXIF metadata from a source directory (or tree) full of media files to a target directory (also full of media files). EXIF_Cloner uses [ExifTool](https://exiftool.org/) in the background, which you'll need to download and point it at.
+Quick command-line utility for bulk cloning EXIF metadata from a source directory (or tree) full of media files to a target directory (also full of media files). EXIF_Cloner uses [ExifTool](https://exiftool.org/) in the background (tested with 13.19_64 on Windows), which you'll need to download and point it at.
 
 ![EXIF_Cloner screenshot](https://github.com/rbbrdckybk/exif_cloner/blob/main/screenshot.jpg?raw=true)
 
